@@ -13,5 +13,5 @@ This project focuses on cleaning and preprocessing the Netflix Titles dataset.
 ## 🗂 Files Included
 
 - `netflix_titles.csv` – Original dataset
-- `netflix_cleaning.ipynb` – Code for cleaning
+- `netflix.ipynb` – Code for cleaning
 - `README.md` – Project summary
